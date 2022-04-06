@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@alihassanhere" target="blank"><img src="https://img.shields.io/twitter/follow/@alihassanhere?logo=twitter&style=for-the-badge" alt="@alihassanhere" /></a> </p>
 
-- 🌱 I’m currently learning **websockets and redis**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **react,node,express and mongodb**
 

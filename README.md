@@ -30,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alihassan-here&show_icons=true&locale=en" alt="alihassan-here" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alihassan-here&" alt="alihassan-here" /></p>
+<a href="https://app.daily.dev/Ali_here"><img src="https://api.daily.dev/devcards/177cf6a2b81343ca9452e3a2ef1d0d1f.png?r=b9r" width="400" alt="Ali Hassan's Dev Card"/></a>

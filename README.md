@@ -21,7 +21,7 @@
 <a href="https://www.hackerrank.com/alihassanuog50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alihassanuog50" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/ebZbbt8J" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ebZbbt8J" height="30" width="40" /></a>
 <a href="https://leetcode.com/Ali_here/" target="blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="leetcode height="30" width="40" /></a>
-<a href="https://app.daily.dev/Ali_here" target="blank"><img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.ethicalads.io%2Fimages%2Fpages%2Ftestimonials%2Fdailydev.png&imgrefurl=https%3A%2F%2Fwww.ethicalads.io%2Fpublishers%2Fdailydev%2F&tbnid=waNb_M3Lrej7fM&vet=12ahUKEwifp7mp5s35AhUNTRoKHbobDHkQMygEegUIARDOAQ..i&docid=vZ4f1XLeT02e2M&w=1024&h=702&q=daily.dev%20images&ved=2ahUKEwifp7mp5s35AhUNTRoKHbobDHkQMygEegUIARDOAQ" alt="leetcode height="30" width="40" /></a>
+<a href="https://app.daily.dev/Ali_here" target="blank"><img align="center" src="https://www.ethicalads.io/images/pages/testimonials/dailydev.png" alt="leetcode height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

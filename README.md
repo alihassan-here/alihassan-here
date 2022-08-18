@@ -21,7 +21,7 @@
 <a href="https://www.hackerrank.com/alihassanuog50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alihassanuog50" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/ebZbbt8J" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ebZbbt8J" height="30" width="40" /></a>
 <a href="https://leetcode.com/Ali_here/" target="blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="leetcode height="30" width="40" /></a>
-<a href="https://app.daily.dev/Ali_here" target="blank"><img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--14ekEM_7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/dailydotdev/daily/master/assets/logo.png" alt="dailyDev" height="30" width="40" /></a>
+<a href="https://app.daily.dev/Ali_here" target="blank"><img align="center" src="https://assets.website-files.com/5e0a5d9d743608d0f3ea6753/5fc6a5a82f9d71530c46a806_Logo%20-%20Black.jpg" alt="dailyDev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

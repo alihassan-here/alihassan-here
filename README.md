@@ -1,3 +1,6 @@
+# 💫 About Me:
+🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.<br>👯 I’m looking to collaborate to solve any real world problem with JavaScript.<br>🤝 I’m looking for help with open source collaboration.<br>🌱 I’m currently exploring python world.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-hassan-here) 
@@ -14,9 +17,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=alihassan-here&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alihassan-here&icon=0&color=0)](https://visitcount.itsvg.in)
